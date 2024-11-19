@@ -1,9 +1,0 @@
-PDR-E2ED modeling results (xml files).zip :
-https://drive.google.com/file/d/1HAjeQvLNJLQpGBalmqO_VMooJntaSDfr/view?usp=drive_link
-
-
-AODV-Optimized evalution results (xml files).zip
-https://drive.google.com/file/d/1HAKZXeMoydSXHKUUUUUvQjY858VUeC4t/view?usp=drive_link
-
-AODV evalution results (xml files).zip :
-https://drive.google.com/file/d/1H9T1reuyIh1zE0B7hokUGUF2vCIz6xbg/view?usp=drive_link
